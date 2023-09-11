@@ -13,10 +13,9 @@
   <img align="center" alt="html" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-
-  
 </div>
-<br/>
+
+### A Little About ​Myself.
    In my free time, I enjoy watching movies and playing videogames, that often find their way into my projects.
 ​<br>
    Thank you for your time!
